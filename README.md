@@ -31,14 +31,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Levi from Singapore<br><br>- 📚 I'm currently learning full stack web development<br>- ⚡ In my free time I do small projects, listen to music and play valorant</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
