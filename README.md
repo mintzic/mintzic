@@ -1,4 +1,4 @@
-<img align="right" height="400" src="https://i.imgur.com/bcADk2U.png"  />
+<img align="right" height="500" src="https://i.imgur.com/bcADk2U.png"  />
 
 ###
 
