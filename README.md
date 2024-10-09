@@ -6,11 +6,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mintzic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/mintzic/mintzic/output/snake.svg" alt="Snake animation" />
-
-###
