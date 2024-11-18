@@ -1,9 +1,48 @@
-# 📊 GitHub Stats:
-<img align="right" height="500" src="https://i.imgur.com/bcADk2U.png"  /><br />
-![](https://github-readme-stats.vercel.app/api?username=mintzic&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mintzic&theme=codeSTACKr&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mintzic&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+```bash
+┌──(mintzic@hyprland)-[~]
+└─$ neofetch
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mintzic&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<img src="https://raw.githubusercontent.com/mintzic/mintzic/output/snake.svg" alt="Snake animation" />
+                  ▟█▙
+                 ▟███▙                    mintzic@hyprland
+                ▟█████▙                   ----------------
+               ▟███████▙                  Interests: Coding & Anime
+              ▂▔▀▜██████▙                Environment: Arch Linux
+             ▟██▅▂▝▜█████▙               WM: Hyprland
+            ▟█████████████▙               Shell: zsh
+           ▟███████████████▙              Editor: Neovim
+          ▟█████████████████▙             Terminal: Kitty
+         ▟███████████████████▙            
+        ▟█████████▛▀▀▜████████▙          Projects: Always coding something new
+       ▟████████▛      ▜███████▙         Anime: Currently exploring new series
+      ▟█████████        ████████▙        
+     ▟██████████        █████▆▅▄▃▂       Contact:
+    ▟██████████▛        ▜█████████▙      GitHub: github.com/mintzic
+   ▟██████▀▀▀              ▀▀██████▙     
+  ▟███▀▘                       ▝▀███▙    
+ ▟▛▀                               ▀▜▙    
+
+┌──(mintzic@hyprland)-[~]
+└─$ cat about.txt
+[✦] Profile: mintzic
+[✦] About Me: Passionate about coding and anime
+[✦] Currently: Exploring the digital realm
+[✦] Environment: Arch Linux + Hyprland
+
+┌──(mintzic@hyprland)-[~]
+└─$ ls ~/interests
+├── coding/
+│   ├── languages/
+│   ├── projects/
+│   └── tools/
+├── anime/
+│   ├── currently-watching/
+│   ├── favorites/
+│   └── recommendations/
+└── tech/
+    ├── linux/
+    ├── customization/
+    └── open-source/
+
+┌──(mintzic@hyprland)-[~]
+└─$ _
+```
