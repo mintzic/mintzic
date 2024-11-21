@@ -42,6 +42,6 @@
     ├── customization/
     └── open-source/
 
-┌──(mintzic@arch)-[~]
+┌──(mintzic@mint)-[~]
 └─$ _
 ```
