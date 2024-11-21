@@ -1,9 +1,9 @@
 ```bash
-┌──(mintzic@hyprland)-[~]
+┌──(mintzic@mint)-[~]
 └─$ neofetch
 
                   ▟█▙
-                 ▟███▙                    mintzic@hyprland
+                 ▟███▙                    mintzic@mint
                 ▟█████▙                   ----------------
                ▟███████▙                  Interests: Coding & Anime
               ▂▔▀▜██████▙                Environment: Arch Linux
@@ -21,14 +21,13 @@
   ▟███▀▘                       ▝▀███▙    
  ▟▛▀                               ▀▜▙    
 
-┌──(mintzic@hyprland)-[~]
+┌──(mintzic@mint)-[~]
 └─$ cat about.txt
 [✦] Profile: mintzic
 [✦] About Me: Passionate about coding and anime
 [✦] Currently: Exploring the digital realm
-[✦] Environment: Arch Linux + Hyprland
 
-┌──(mintzic@hyprland)-[~]
+┌──(mintzic@mint)-[~]
 └─$ ls ~/interests
 ├── coding/
 │   ├── languages/
@@ -43,6 +42,6 @@
     ├── customization/
     └── open-source/
 
-┌──(mintzic@hyprland)-[~]
+┌──(mintzic@arch)-[~]
 └─$ _
 ```
