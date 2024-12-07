@@ -11,7 +11,7 @@
 │   ├── languages/
 │   ├── projects/
 │   └── tools/
-|── anime/
+└── anime/
     ├── currently-watching/
     ├── favorites/
     └── recommendations/
